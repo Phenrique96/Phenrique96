@@ -1,5 +1,5 @@
 # 🙍‍♂️ Sobre mim:
-<strong>Olá! Sou o Paulo</strong> 🤚<br><br>
+<h3><strong> Olá! Sou o Paulo!  👋 <strong></h3> <br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas, em um processo de evolução constante.<br>
 👨‍💻 Trilhando o caminho do Desenvolvimento e Teste de Software. 
 

@@ -1,24 +1,30 @@
-# 🙍‍♂️ Sobre mim:
-<h3><strong> Olá! Sou o Paulo!  👋 <strong></h3> <br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas, em um processo de evolução constante.<br>
-👨‍💻 Trilhando o caminho do Desenvolvimento e Teste de Software. 
+
+<h3><strong> Olá! Sou o Paulo Henrique (PH)!  👋 <strong></h3> <br>
+<p> 📚 Estudante de Análise e Desenvolvimento de Sistemas, em um processo de evolução constante.</p> 
+<p> 👨‍💻 Experiência em Desenvovimento Web e Infraestrutura de TI. </p> 
+<hr>
 
 
-## 🌐 Minhas redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/phenrique96_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulohenriqueferreiramoreira/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/peaga_96) 
+<div>
+    <h3> 💻 Tech Stack: </h3>
+    <img  height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img height="30em" width="150em" src="https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/zabbix.jpg" />
+</div>
+<hr>
 
-# 💻 Tech Stack:
-![HTML5]() ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Phenrique96&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Phenrique96&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phenrique96&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div>
+  <h3>🌐 Minhas Redes:</h3>
+  <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"> 
+</div> 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Phenrique96&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Phenrique96&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

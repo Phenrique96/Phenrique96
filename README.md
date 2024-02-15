@@ -1,5 +1,5 @@
 
-<h3><strong> Olá! Sou o Paulo Henrique F. Moreira (PH)!  👋 <strong></h3> <br>
+<h3><strong> Olá! Sou o Paulo Henrique F. (PH)!  👋 <strong></h3> <br>
 <p> 📚 Estudante de Análise e Desenvolvimento de Sistemas, em um processo de evolução constante.</p> 
 <p> 👨‍💻 Experiência em Desenvovimento Web e Infraestrutura de TI. </p> 
 <hr>
